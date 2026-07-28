@@ -7,3 +7,4 @@ End-to-end pipeline: S3/Lambda/Glue → Snowflake → dbt → Airflow → Power 
 - Day 1: Added feature A notes
 - Day 1: Added feature B notes
 - Day 1: Direct update on main
+- Day 1: Practicing rebase (feature-c)
